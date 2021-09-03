@@ -1,5 +1,5 @@
 <p align="center"><img width=12.5% src="https://github.com/theandrebass/Intuition/blob/main/media/Logo.png"></p>
-<p align="center"><img width=60% src="https://github.com/theandrebass/Intuition/blob/main/media/intuition.png"></p>
+<p align="center"><img width=60% src="https://github.com/theandrebass/Intuition/blob/main/media/Intuition.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
