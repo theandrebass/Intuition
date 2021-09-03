@@ -17,7 +17,7 @@ Using stock historical data, train a supervised learning algorithm with any comb
 <br>
 
 ## Visualize the Learning Process
-<img src="https://github.com/theandrebass/intuition/master/media/Learning.gif" width=40%>
+<img src="https://github.com/theandrebass/Intuition/blob/main/media/Learning.gif" width=40%>
 
 <br>
 
