@@ -1,5 +1,5 @@
-<p align="center"><img width=12.5% src="https://github.com/theandrebass/intuition/blob/master/media/Logo.png"></p>
-<p align="center"><img width=60% src="https://github.com/theandrebass/intuition/blob/master/media/intuition.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/theandrebass/intuition/master/media/Logo.png"></p>
+<p align="center"><img width=60% src="https://github.com/theandrebass/intuition/master/media/intuition.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -17,7 +17,7 @@ Using stock historical data, train a supervised learning algorithm with any comb
 <br>
 
 ## Visualize the Learning Process
-<img src="https://github.com/theandrebass/intuition/blob/master/media/Learning.gif" width=40%>
+<img src="https://github.com/theandrebass/intuition/master/media/Learning.gif" width=40%>
 
 <br>
 
@@ -101,7 +101,7 @@ Sell Accuracy: 59.3%
 ---------------------------------------
 ```
 
-<img src="https://github.com/theandrebass/intuition/blob/master/media/SBUX.png">
+<img src="https://github.com/theandrebass/intuition/master/media/SBUX.png">
 
 ## Simulate a Trading Strategy
 Once you've established your model can accurately predict price movement a day in advance, 
