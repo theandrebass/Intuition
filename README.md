@@ -1,5 +1,5 @@
-<p align="center"><img width=12.5% src="https://github.com/theandrebass/intuition/master/media/Logo.png"></p>
-<p align="center"><img width=60% src="https://github.com/theandrebass/intuition/master/media/intuition.png"></p>
+<p align="center"><img width=12.5% src="https://github.com/theandrebass/Intuition/blob/main/media/Logo.png"></p>
+<p align="center"><img width=60% src="https://github.com/theandrebass/Intuition/blob/main/media/intuition.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -12,7 +12,7 @@
 ## Basic Overview
 
 Using stock historical data, train a supervised learning algorithm with any combination of financial indicators. Rapidly backtest your model for accuracy and simulate investment portfolio performance. 
-<p align="center"><img width=95% src="https://github.com/theandrebass/intuition/blob/master/media/Schematic.png"></p>
+<p align="center"><img width=95% src="https://github.com/theandrebass/Intuition/blob/main/media/Schematic.png"></p>
 
 <br>
 
@@ -101,7 +101,7 @@ Sell Accuracy: 59.3%
 ---------------------------------------
 ```
 
-<img src="https://github.com/theandrebass/intuition/master/media/SBUX.png">
+<img src="https://github.com/theandrebass/Intuition/blob/main/media/SBUX.png">
 
 ## Simulate a Trading Strategy
 Once you've established your model can accurately predict price movement a day in advance, 
@@ -151,7 +151,7 @@ Total Trades : 350
 ---------------------------------------
 ```
 
-<img src="https://raw.githubusercontent.com/theandrebass/intuition/master/media/Chart.png">
+<img src="https://github.com/theandrebass/Intuition/blob/main/media/Chart.png">
 
 ## Other Projects
 #### Intensive Backtesting
